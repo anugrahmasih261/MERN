@@ -1,0 +1,17 @@
+{
+  "name": "exercise-tracker",
+  "version": "0.0.0",
+  "description": "EXERCISE-TRACKER",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bootstrap": "^5.1.3",
+    "create-react-app": "^4.0.3",
+    "npx": "^10.2.2",
+    "react-datepicker": "^4.3.0",
+    "react-router-dom": "^6.0.1"
+  }
+}
